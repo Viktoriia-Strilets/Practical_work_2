@@ -1,0 +1,3 @@
+﻿  ООП№2.cpp
+C:\study\projects\ООП№2\ООП№2\ООП№2.cpp(150): warning C4715: 'Polynomial::operator<': not all control paths return a value
+  ООП№2.vcxproj -> C:\study\projects\ООП№2\x64\Debug\ООП№2.exe
